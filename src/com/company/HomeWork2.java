@@ -8,14 +8,6 @@ public class HomeWork2 {
         System.out.println(student(22, 10));
         System.out.println(student(43, 50));
         System.out.println(student(7, 10));
-        System.out.println(2+"a");
-        boolean hochuEst = true;
-        if (hochuEst) {
-            System.out.println("Vremya obedat");
-        }
-        else {
-            System.out.println("Eshe rano");
-        }
     }
 
 
