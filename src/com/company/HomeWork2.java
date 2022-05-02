@@ -15,11 +15,11 @@ public class HomeWork2 {
         if ((age > 20 && age < 45) && (temperature > -20 && temperature < 30)) {
             return "Mojno idti gulyat";
         } else if ((age < 20) && (temperature >= 0 && temperature < 28)) {
-            return "2";
+            return "Mojno idti gulyat";
         } else if ((age > 45) && (temperature > -10 && temperature < 25)) {
-            return "2";
+            return "Mojno idti gulyat";
         } else {
-            return "3";
+            return "Stay home";
         }
     }
 }
